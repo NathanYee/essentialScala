@@ -42,3 +42,19 @@ null
 
 ()
 
+println("returns null")
+
+// exercises
+42 // Int
+true // Boolean
+123L // Long
+32.0 //Double
+
+'a' // Char
+"a" // String
+
+"Hello" // literal expression -> String
+println("Hello") // evaluates to unit
+
+'Hello'
+
