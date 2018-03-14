@@ -33,3 +33,5 @@ class Cat2(val name: String, val breed: String) {
 
 val happyCat2 = new Cat2("Pumpkin", "Orange & White Tabby")
 
+// 3.1.3
+new Cat2(name = "Pumpkin", breed = "Tabby")
