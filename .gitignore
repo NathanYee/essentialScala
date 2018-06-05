@@ -86,3 +86,4 @@ tags
 # End of https://www.gitignore.io/api/vim,scala,intellij
 
 .idea
+target/
